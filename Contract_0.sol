@@ -7,7 +7,7 @@ contract HelloWorld_0 {
     string public message;
 
     constructor() {
-        randomNumber = 97;
+        randomNumber = 55;
         message = "Hello from commit 0 - 2025-03-04 05:33:11";
     }
 
